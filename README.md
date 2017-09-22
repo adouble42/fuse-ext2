@@ -174,4 +174,7 @@ Please **do not** use comma `,` in partition labels.
 
 # Contact
 
-Alper Akcan <alper.akcan@gmail.com>
+nemesis project fuse maintainer via <nemesis-project@screwjackllc.com>
+
+please do NOT bother
+Alper Akcan regarding nemesis but nemesis project do thank him many times over for this module which has served us so well
